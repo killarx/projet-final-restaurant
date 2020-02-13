@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+div {
+  border: 2px solid black;
+  border-radius: 2px;
+  padding: 1em;
+}
+/*# sourceMappingURL=exercice.css.map */
